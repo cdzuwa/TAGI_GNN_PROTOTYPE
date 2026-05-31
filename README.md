@@ -46,7 +46,7 @@ Reference:
 
 ---
 
-## Proposed Prototype: TAGI-GCN
+## Proposed Prototype: TAGI-SGC
 
 The prototype combines:
 
@@ -56,7 +56,7 @@ The prototype combines:
 Instead of learning deterministic weights using gradient descent, the SGC weights are treated as Gaussian random variables and updated using TAGI.
 
 
-In essence, TAGI-GCN can be viewed as:
+In essence, TAGI-SGC can be viewed as:
 
 ```text
 TAGI + SGC
