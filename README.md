@@ -4,7 +4,7 @@
 
 ## Foundation 1: TAGI
 
-**Tractable Approximate Gaussian Inference (TAGI)** is a Bayesian learning framework developed by James-A. Goulet and colleagues that enables neural networks to learn through analytical Gaussian inference rather than backpropagation and gradient descent.
+**Tractable Approximate Gaussian Inference (TAGI)** is a Bayesian learning framework developed by Prof. James-A. Goulet and colleagues that enables neural networks to learn through analytical Gaussian inference rather than backpropagation and gradient descent.
 
 Key features:
 
